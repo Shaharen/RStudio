@@ -5,7 +5,7 @@ vec2 <- c("사과",100,TRUE)
 vec2
 vec3 <- c(100.3, 33, TRUE, FALSE)
 vec3
-
+ 
 v_no <- seq(1,7)
 v_name <- c('Apple','Peach','Banana','Grape','Kiwi','Orange','Mango')
 v_price <- c(500,200,100,300,150,250,450)
