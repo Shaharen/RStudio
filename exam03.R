@@ -112,7 +112,3 @@ wordcloud2(result2, size=1)
 # '인공지능' 제거
 result3 <- result2[-1]
 wordcloud2(result3, size=0.5)
-
-
-
-
