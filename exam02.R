@@ -97,11 +97,3 @@ titanic_2 <- read.csv("titanic_2.csv", stringsAsFactors = TRUE)
 heart <-read.csv("heart_failure_clinical_records_dataset.csv", stringsAsFactors = TRUE)
 
 # obs = observation   :   299obs = 행이 299개
-
-
-
-
-
-
-
-
