@@ -2,7 +2,7 @@ list.files()
 
 titanic <- read.csv("titanic_2.csv")
 titanic
-
+ 
 # 데이터의 앞부분 확인 (기본값 6개)
 head(titanic , 8) # 8줄
 # 데이터의 뒷부분 확인 (기본값 6개)
