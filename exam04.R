@@ -11,7 +11,7 @@ score
 # 파이프 연산자 %>% - 단축키 : ctrl shift m
 # ( 바꿀이름 = 전 이름 ) 으로 사용하고 출력만하고 저장 안됨
 score <- score %>% rename(id = 학번, grade = 학년, mid = 중간고사, fin = 기말고사, assign = 과제제출, att = 출석점수)
-
+ 
 # 조건에 맞는 행만 추출하기 filter()
 # 조건의 결과가 TRUE인 행만 추출
 # grade가 1인 행만 출력하기
