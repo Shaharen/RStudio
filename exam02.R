@@ -10,7 +10,7 @@ v_no <- seq(1,7)
 v_name <- c('Apple','Peach','Banana','Grape','Kiwi','Orange','Mango')
 v_price <- c(500,200,100,300,150,250,450)
 v_stock <- c(5,2,4,7,5,3,8)
-
+  
 # 데이터프레임 만드는 방법 data.frame()
 sales <- data.frame(v_no,v_name,v_price,v_stock)
 sales
